@@ -1,0 +1,1 @@
+print("dalsi funkcionalita")
