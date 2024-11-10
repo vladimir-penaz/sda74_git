@@ -1,0 +1,1 @@
+print("Lama Radim Doležal")
